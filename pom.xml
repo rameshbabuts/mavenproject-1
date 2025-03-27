@@ -7,12 +7,12 @@
 	
 	
   <groupId>com.naveen</groupId>
-  <artifactId>maven-web-project1</artifactId>
+  <artifactId>maven-web-project</artifactId>
   
   <packaging>war</packaging>
 	<version>1.0</version>
 
-  <name>mavenproject Maven Webapp</name>
+  <name>mavenproject Maven Webapp_N</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
