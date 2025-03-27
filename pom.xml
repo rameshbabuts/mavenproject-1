@@ -7,7 +7,7 @@
 	
 	
   <groupId>com.naveen</groupId>
-  <artifactId>maven-web-project</artifactId>
+  <artifactId>maven-web-project-N</artifactId>
   
   <packaging>war</packaging>
 	<version>1.0</version>
