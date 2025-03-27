@@ -9,7 +9,7 @@
   <groupId>com.naveen</groupId>
   <artifactId>maven-web-project</artifactId>
   
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 	<version>1.0</version>
 
   <name>mavenproject Maven Webapp_N</name>
